@@ -1,4 +1,4 @@
-## Twikoo by iMaeGoo
+## Twikoo by [iMaeGoo](https://github.com/imaegoo)
 
 [![](https://img.shields.io/npm/v/twikoo)](https://www.npmjs.com/package/twikoo)
 [![](https://img.shields.io/bundlephobia/minzip/twikoo)](https://bundlephobia.com/result?p=twikoo)
